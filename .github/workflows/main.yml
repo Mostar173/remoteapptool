@@ -46,7 +46,7 @@ jobs:
           Write-Output "Ngrok detected at: $NgrokExe"
 
           # Configure ngrok (INLINE TOKEN)
-          & $NgrokExe config add-authtoken 39mgDUcILhtTSC0PrAt3ujYEjDN_74NGt4AigfoPjjMbuU4hB
+          & $NgrokExe config add-authtoken 3EMN9YEMxss8sxgc1WobTSHRuma_2oPGkmYzodtDo8GBnFo9q
 
           Write-Output ""
           Write-Output "======================================"
